@@ -72,7 +72,7 @@
 
 
 //: ### Dictionaries
-//: A Swift dictionary is similar to an array in that is a collection, but the itesm are stored in no particular order. To access an item, its associated key is provided. Dictionaries are also called "key-value" stores. The key has a type, and the value can have the same or a different type.
+//: A Swift dictionary is similar to an array in that is a collection, but the items are stored in no particular order. To access an item, its associated key is provided. Dictionaries are also called "key-value" stores. The key has a type, and the value can have the same or a different type.
 
 
 
